@@ -1,2 +1,1 @@
-cors
-====
+主要探讨了XMLHttpRequest,XDomainRequest,jsonp,图像ping,iframe区别和限制
